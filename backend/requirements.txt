@@ -4,3 +4,5 @@ python-multipart
 httpx
 pydantic
 python-dotenv
+pymongo
+dnspython
